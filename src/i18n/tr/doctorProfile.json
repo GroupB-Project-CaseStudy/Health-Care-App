@@ -1,0 +1,12 @@
+{
+  "description": {
+    "title": "关于医生"
+  },
+  "appointments": {
+    "title": "可用性"
+  },
+  "button": {
+    "text": "预约"
+  },
+  "dateFormat": "{{date, EEE, d-MMM}}"
+}

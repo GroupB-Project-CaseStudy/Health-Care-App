@@ -1,0 +1,31 @@
+{
+  "title": "主页",
+  "header": "你好, <b>{{name}}</b> !",
+  "search": {
+    "placeholder": "查找  ..."
+  },
+  "card": {
+    "title": "待在家里!",
+    "subtitle": "您可以安排电子访问（随任何计划免费提供）。"
+  },
+  "doctors": {
+    "title": "最近",
+    "subtitle": "{{count}} 医生",
+    "subtitle_plural": "{{count}} 医生"
+  },
+  "services": {
+    "title": "医疗服务",
+    "subtitle": "选择服务寻找医生",
+    "types": {
+      "diagnose": "诊断",
+      "badge": "绷带",
+      "shot": "Shots",
+      "ambulance": "救护车",
+      "heart-beat": "心跳",
+      "checkup": "清理",
+      "pill": "药物",
+      "heart-plus": "建议"
+    },
+    "button": "可用医生"
+  }
+}

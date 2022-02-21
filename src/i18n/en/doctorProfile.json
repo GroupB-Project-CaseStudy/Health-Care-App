@@ -1,0 +1,12 @@
+{
+  "description": {
+    "title": "About the Doctor"
+  },
+  "appointments": {
+    "title": "Availability"
+  },
+  "button": {
+    "text": "Schedule An Appointment"
+  },
+  "dateFormat": "{{date, EEE, d-MMM}}"
+}

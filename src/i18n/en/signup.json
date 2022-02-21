@@ -1,0 +1,20 @@
+{
+  "title": "Sign Up",
+  "subtitle": "Sign up now to make new appointments.",
+  "form": {
+    "fullName": {
+      "placeholder": "Full name"
+    },
+    "email": {
+      "placeholder": "Email address"
+    },
+    "password": {
+      "placeholder": "Password"
+    },
+    "submit": {
+      "text": "Create A Free Account"
+    }
+  },
+  "haveAccount": "Already have an account?",
+  "signIn": "Sign In"
+}

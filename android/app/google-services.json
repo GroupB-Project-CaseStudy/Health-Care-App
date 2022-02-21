@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "559792786123",
+    "project_id": "hakeemi",
+    "storage_bucket": "hakeemi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559792786123:android:b309404c9111b56662e94e",
+        "android_client_info": {
+          "package_name": "com.Hakeemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559792786123-fkp6qhsr0aumk28133tehn9ebvr0r2ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDioUE8w_aOsU_lg3NuyZWxd43uWsrYk2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559792786123-fkp6qhsr0aumk28133tehn9ebvr0r2ga.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559792786123-mq519jkj6jpsp5anvh5ur2k9rf2pl1dd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Hakeemi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

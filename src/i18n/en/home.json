@@ -1,0 +1,31 @@
+{
+  "title": "Home",
+  "header": "Hello, <b>{{name}}</b> !",
+  "search": {
+    "placeholder": "Search..."
+  },
+  "card": {
+    "title": "Stay Home!",
+    "subtitle": "You can schedule an e-visit (comes free with any plan)."
+  },
+  "doctors": {
+    "title": "Recent",
+    "subtitle": "{{count}} Doctor",
+    "subtitle_plural": "{{count}} Doctors"
+  },
+  "services": {
+    "title": "Medical Services",
+    "subtitle": "Choose a service to find available doctor",
+    "types": {
+      "diagnose": "Diagnosis",
+      "badge": "Bandage",
+      "shot": "Shots",
+      "ambulance": "Ambulance",
+      "heart-beat": "Heartbeats",
+      "checkup": "Checkup",
+      "pill": "Medicines",
+      "heart-plus": "Advice"
+    },
+    "button": "Available doctors"
+  }
+}

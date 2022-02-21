@@ -1,0 +1,17 @@
+{
+  "timeFormat": "{{time, h:mm a}}",
+  "description": {
+    "title": "预约",
+    "subtitle": "Dr.{{name}} 预约"
+  },
+  "appointments": {
+    "title": "时间",
+    "subtitle": "选择一个有效的时间段"
+  },
+  "button": {
+    "text": "预约"
+  },
+  "message": {
+    "success": "预约成功"
+  }
+}

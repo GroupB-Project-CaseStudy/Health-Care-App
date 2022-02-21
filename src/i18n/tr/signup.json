@@ -1,0 +1,20 @@
+{
+  "title": "注册",
+  "subtitle": "注册并预约.",
+  "form": {
+    "fullName": {
+      "placeholder": "姓名"
+    },
+    "email": {
+      "placeholder": "邮箱地址"
+    },
+    "password": {
+      "placeholder": "密码"
+    },
+    "submit": {
+      "text": "创建一个账户"
+    }
+  },
+  "haveAccount": "已经有了？",
+  "signIn": "登录"
+}

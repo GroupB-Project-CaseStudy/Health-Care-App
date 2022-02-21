@@ -1,0 +1,20 @@
+{
+  "title": "登录",
+  "subtitle": "欢迎回来!",
+  "form": {
+    "email": {
+      "placeholder": "邮箱地址"
+    },
+    "password": {
+      "placeholder": "密码"
+    },
+    "submit": {
+      "text": "安全登录"
+    },
+    "forgotPassword": {
+      "text": "忘记密码"
+    }
+  },
+  "haveAccount": "没有账户?",
+  "signUp": "注册"
+}
