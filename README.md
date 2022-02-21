@@ -1,8 +1,8 @@
 ![Hakeemi banner](assets/repo/banner.jpg)
 
-# Hakeemi - Doctor appointment app
+# Health-Q- Doctor appointment app
 
-Hakeemi is a demo project based on free [Figma design](https://www.figma.com/file/t9IGYhQmBToThHPtxJUuz5/Doctor-Appointment-App-Community?node-id=0%3A1) with the purpose of a doctor appointment reservation app showcase.
+Health-Q is a demo project based on free [Figma design](https://www.figma.com/file/t9IGYhQmBToThHPtxJUuz5/Doctor-Appointment-App-Community?node-id=0%3A1) with the purpose of a doctor appointment reservation app showcase.
 
 I built it with the mindset of exploring how can I achieve a good project structure while keeping it simple, scalable and production ready.
 
