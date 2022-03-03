@@ -1,4 +1,4 @@
-![Hakeemi banner](assets/repo/banner.jpg)
+
 
 # Health-Q- Doctor appointment app
 
