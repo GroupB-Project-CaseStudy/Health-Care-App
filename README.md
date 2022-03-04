@@ -16,7 +16,7 @@ During the development I wanted to explore different things as well so I used fi
 <div style="width:100%; display: flex; justify-content: space-around">
 <img src="assets/repo/Screenshot_1646375811.png" alt="Home page"
 	title="Home page" width="250"  style="object-fit: contain;"/>
-	qweqwewqew
+	<p>asdsad</p>
 	</div>
 	<div>
 <img src="assets/repo/Screenshot_1646375951.png" alt="Home page"
