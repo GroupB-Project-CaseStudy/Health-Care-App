@@ -16,25 +16,30 @@ During the development I wanted to explore different things as well so I used fi
 <div style="width:100%; display: flex; justify-content: space-around">
 <img src="assets/repo/Screenshot_1646375811.png" alt="Home page"
 	title="Home page" width="250"  style="object-fit: contain;"/>
-	<p>asdsad</p>
+	<p>Main Page</p>
 	</div>
 	<div>
 <img src="assets/repo/Screenshot_1646375951.png" alt="Home page"
 	title="Home page" width="250"  style="object-fit: contain;"/>
+	<p>Registration Page</p>
 	</div>
 	<div>
 	<img src="assets/repo/Screenshot_1646376000.png" alt="Home page"
 	title="Home page" width="250"  style="object-fit: contain;"/>
+	<p>Home Page</p>
 	</div>
 	<div>
 	<img src="assets/repo/Screenshot_1646376016.png" alt="Home page"
 	title="Home page" width="250"  style="object-fit: contain;"/>
+	<p>Appointment Page</p>
 	</div>
 	<div>
 	<img src="assets/repo/Screenshot_1646376026.png" alt="Home page"
 	title="Home page" width="250"  style="object-fit: contain;"/>
+	<p>Profile Page</p>
 	</div>
 	<div>
 	<img src="assets/repo/Screenshot_1646376034.png" alt="Home page"
 	title="Home page" width="250"  style="object-fit: contain;"/>
+	<p>Consultation Page</p>
 </div>
