@@ -12,10 +12,29 @@ While I am not using an UI library I tried to isolate component development by s
 
 During the development I wanted to explore different things as well so I used firebase for authentication and firestore as database.
 
-
+# Prototype
 <div style="width:100%; display: flex; justify-content: space-around">
 <img src="assets/repo/Screenshot_1646375811.png" alt="Home page"
 	title="Home page" width="250"  style="object-fit: contain;"/>
+	qweqwewqew
+	</div>
+	<div>
 <img src="assets/repo/Screenshot_1646375951.png" alt="Home page"
+	title="Home page" width="250"  style="object-fit: contain;"/>
+	</div>
+	<div>
+	<img src="assets/repo/Screenshot_1646376000.png" alt="Home page"
+	title="Home page" width="250"  style="object-fit: contain;"/>
+	</div>
+	<div>
+	<img src="assets/repo/Screenshot_1646376016.png" alt="Home page"
+	title="Home page" width="250"  style="object-fit: contain;"/>
+	</div>
+	<div>
+	<img src="assets/repo/Screenshot_1646376026.png" alt="Home page"
+	title="Home page" width="250"  style="object-fit: contain;"/>
+	</div>
+	<div>
+	<img src="assets/repo/Screenshot_1646376034.png" alt="Home page"
 	title="Home page" width="250"  style="object-fit: contain;"/>
 </div>
