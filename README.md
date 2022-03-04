@@ -12,10 +12,10 @@ While I am not using an UI library I tried to isolate component development by s
 
 During the development I wanted to explore different things as well so I used firebase for authentication and firestore as database.
 
-![](https://visitor-badge.glitch.me/badge?page_id=naderalfakesh.Hakeemi)
 
 <div style="width:100%; display: flex; justify-content: space-around">
-
+<img src="assets/repo/Screenshot_1646375811.png" alt="Home page"
+	title="Home page" width="250"  style="object-fit: contain;"/>
 <img src="assets/repo/screenshot-2.jpg" alt="Home page"
 	title="Home page" width="250"  style="object-fit: contain;"/>
 </div>
